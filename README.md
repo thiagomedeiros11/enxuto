@@ -25,11 +25,16 @@ pip install pillow
 
 ### Make the script executable:
 
+```bash
 chmod +x enxuto.py
+```
 
 ### (Optional) Move it to a system-wide location:
 
+
+```bash
 sudo cp enxuto.py /usr/local/bin/enxuto
+```
 
 ## Usage
 
